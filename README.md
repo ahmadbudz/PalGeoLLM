@@ -6,13 +6,13 @@
 
 ---
 
-## 📱 Overview
+## Overview
 
 Understanding Palestine’s geography and preserving its cultural identity is more important than ever. This project integrates machine learning and mobile development to offer a chatbot that can accurately answer questions about Palestine, from cities and landmarks to historical and demographic details.
 
 ---
 
-## 🧠 Core Features
+## Core Features
 
 - **Custom Arabic Dataset**: 20,564 manually and semi-synthetically curated Q&A pairs.
 - **Fine-tuned LLMs**: Three models evaluated — `aya-expanse-8b`, `LLaMAX 3`, and `Mistral-7B-Instruct-v0.3`.  
@@ -24,7 +24,7 @@ Understanding Palestine’s geography and preserving its cultural identity is mo
 
 ---
 
-## 📊 Dataset Summary
+## Dataset Summary
 
 - **Manual QA Pairs**: 4,613
 - **LLM-extracted Pairs**: 13,261 (semi-synthetic)
@@ -32,7 +32,7 @@ Understanding Palestine’s geography and preserving its cultural identity is mo
 
 ---
 
-## 🧪 Model Evaluation
+## Model Evaluation
 
 | Model                | BERT F1 Score | LLM-as-a-Judge Rating |
 |---------------------|---------------|------------------------|
@@ -57,7 +57,7 @@ Understanding Palestine’s geography and preserving its cultural identity is mo
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/Hamdeh-Belal/PalGeoLLM.git 
+   https://github.com/SinaLab/PalGeoLLM.git 
     ```
 
 2. Set up the **Flutter app**:
@@ -73,7 +73,7 @@ Understanding Palestine’s geography and preserving its cultural identity is mo
 
 ---
 
-## 📌 Objectives
+## Objectives
 
 - Counter LLM biases against Palestine by fine-tuning on reliable Arabic sources.
     
@@ -84,21 +84,9 @@ Understanding Palestine’s geography and preserving its cultural identity is mo
 
 ---
 
-## 📚 Citation
-
-If you use or refer to this work, please cite:
-
-> Belal Hamdeh, Ahmad Budairi, Mitri Khoury. _Training and Developing a Chatbot for Palestine's Geography_.
-
----
-
-## ✊ Support Palestine Through Technology
+## Support Palestine Through Technology
 
 > “Technology is a tool — we chose to use it to preserve our truth.”
-
----
-
-## 👨‍💻 Authors
 
 - [**Ahmad Budairi** ](https://github.com/ahmadbudz)
 - [**Mitri Khoury** ](https://github.com/mitrikhoury)
