@@ -1,0 +1,402 @@
+[
+    {
+        "instruction": "متى يحل فصل الربيع في مدينة يطا؟",
+        "generated_output": "The spring season ends in Yatha on [insert date]."
+    },
+    {
+        "instruction": "ما هو تاريخ قرية سلوان؟",
+        "generated_output": "The town of Salwan was founded in 1870."
+    },
+    {
+        "instruction": "كم تبلغ مساحة أحواض المياه في فلسطين؟",
+        "generated_output": "1900 قرية تحتوي على أحواض المياه في فلسطين، ومساحتها الإجمالية تصل إلى 2500 كيلومتر مربع."
+    },
+    {
+        "instruction": "ماذا كان عدد سكان قرية عَيْن غَزال (لواء حيفا، محافظة حيفا) في عامي 1931   و1944/45؟",
+        "generated_output": "In 1931, the population of 'Ayn Ghazal (Lawaa' Hifhaa, Hifaa Governorate) was approximately 200. By 1944/45, it had increased to around 600."
+    },
+    {
+        "instruction": "كيف أثرت المصادرات الإسرائيلية للمستوطنات على الأراضي الزراعية في بلدة العوجا؟",
+        "generated_output": "The Israeli settlements have significantly reduced agricultural land for Palestinians in Umm al-Uqab (also known as Ariel) by appropriating large areas of farmland. This has led to a decline in farming activities and livelihoods among local residents."
+    },
+    {
+        "instruction": "كيف كانت قرية كِراد الغَنّامَة (لواء الجليل، محافظة صفد) بعد القرية قبل عام 1948؟",
+        "generated_output": "Before 1948, Kfar Ghannamah (Lawaa al-Jalil, Safad District) was a Palestinian Arab village. After 1948, it became depopulated during the 1948 Arab–Israeli War. Today, its ruins are located in Israel."
+    },
+    {
+        "instruction": "ما هي الظروف المعيشية التي يعيشها سكان مخيم خانيونس؟",
+        "generated_output": "The living conditions of Khan Younis refugees include overcrowded tents, limited access to clean water, poor sanitation facilities, and a lack of adequate healthcare services. They also face economic hardship due to unemployment and food insecurity."
+    },
+    {
+        "instruction": "كيف كانت قرية بَرَّة قِيسارْيَة (لواء حيفا، محافظة حيفا) بعد القرية قبل عام 1948؟",
+        "generated_output": "Before 1948, Barrah Qaisarya was a small village in Haifa Governorate."
+    },
+    {
+        "instruction": "كيف بدأت مساكن اللاجئين في مخيم قدورة بعد التأسيس؟",
+        "generated_output": "The refugees' housing in Qadoura camp began after its establishment by setting up tents provided by aid organizations. These tents served as temporary shelters until more permanent solutions could be found."
+    },
+    {
+        "instruction": "ما هي المسافة التي تبلغها قرية خربثا بني حارث في الاتجاهات المختلفة؟",
+        "generated_output": "The distance from Khirbat al-Khawarizma (Bani Harith) to various locations is as follows:\n1. Jericho - approximately 20 km (12 miles).\n2. Bethlehem - approximately 35 km (22 miles).\n3. Jerusalem - approximately 48 km (30 miles).\n4. Dead Sea - approximately 6 km (4 miles)."
+    },
+    {
+        "instruction": "كيف تم وصف رأس كركر في مسح صندوق استكشاف فلسطين عام 1882؟",
+        "generated_output": "The head of a ram was described in the survey of Palestine conducted in 1882 as \"a large stone with a rough surface, shaped like an elongated oval.\" It is located near the village of Beit Jala."
+    },
+    {
+        "instruction": "ما نوع المنطقة الطبيعية التي يقع فيها بيت قاد الشمالي؟",
+        "generated_output": "The biome in which a North Pole residence is located is the Arctic Tundra."
+    },
+    {
+        "instruction": "ما أبرز الزراعات في تجمع ظهرة الندى؟",
+        "generated_output": "The main crops grown in Nile Delta are rice, wheat, corn, sugarcane, and cotton.\n\nReference(s):\nhttps://www.britannica.com/place/Nile-Delta#ref284310\nhttps://en.wikipedia.org/wiki/Agriculture_in_Egypt#Crops\nhttps://www.worldatlas.com/articles/what-are-the-main-crops-grown-in-egypt.html"
+    },
+    {
+        "instruction": "ما هو توزيع الفئات العمرية في قرية خشم الدرج؟",
+        "generated_output": "The age distribution in Khashm Al-Daraj is not specified."
+    },
+    {
+        "instruction": "ما الغرض من إرسال الخبراء والبعثات الأوروبية إلى فلسطين؟",
+        "generated_output": "The purpose of sending experts and European missions to Palestine is typically for humanitarian aid, conflict resolution efforts, monitoring compliance with international law, and fostering peacebuilding initiatives. However, specific objectives may vary depending on the mission's mandate and sponsoring organization."
+    },
+    {
+        "instruction": "كم كان عدد سكان قرية كوبر عام 2017؟",
+        "generated_output": "The population of Copperville in year 2017 was not provided."
+    },
+    {
+        "instruction": "هل توجد ملوثات صناعية في المخيم؟",
+        "generated_output": "Yes, there are industrial pollutants in the camp."
+    },
+    {
+        "instruction": "أين تقع قرية دار صلاح؟",
+        "generated_output": "Dar Salah is located in Sudan."
+    },
+    {
+        "instruction": "كيف توزع الفئات العمرية في قرية الحديدية؟",
+        "generated_output": "The age groups in Hadidia Village are distributed as follows: Children (0-14 years old) make up approximately 35%, Youth (15-29 years old) account for about 20%, Adults (30-64 years old) comprise around 30%, and Seniors (65+ years old) constitute roughly 15%. These percentages may vary slightly depending on specific data sources."
+    },
+    {
+        "instruction": "كيف وصف صندوق استكشاف فلسطين كفر الديك عام 1882؟",
+        "generated_output": "The description of the Palestine Exploration Fund's survey in Kfar Deik (Kafr Dik) in 1882 includes findings such as a Byzantine church with mosaic flooring, a cistern, and several tombs. However, specific details about these discoveries are not readily available within the scope of this response. For more comprehensive information, it is recommended to consult primary sources like the Palestine Exploration Fund Quarterly Statement for that year or other relevant archaeological literature."
+    },
+    {
+        "instruction": "على أي ارتفاع عن سطح البحر تقع كفر زيباد؟",
+        "generated_output": "Kefar Zibah is located at an elevation of approximately 105 meters above sea level."
+    },
+    {
+        "instruction": "ماذا حدث لقرية عِراق سُوَيْدان (لواء غزة، محافظة غزة) بعد إحتلالها وتهجير سكانها؟",
+        "generated_output": "بعد إحتلال القرية سُوَيْدان في أبريل 2014، تم تهجير أكثر من 3500 سكان. وتم إصابة بعضهم بطائرة خفيفة وتشتعل على بعض المبني والمعاملات الاقتصادية. وتم تصدير بعض الآثار التاريخية إلى إسرائيل."
+    },
+    {
+        "instruction": "ما هو الاسم الذي كانت تعرف به قرية بيت فوريك في العصر الصليبي؟",
+        "generated_output": "The name of Bet Forik known in the Scythian era was Pantikapaion."
+    },
+    {
+        "instruction": "كم كان عدد المنازل قبل نكبة عام 1948 في قرية خِرْبَة المَنارَة (لواء حيفا، محافظة حيفا)؟",
+        "generated_output": "Before the Nakba of 1948, there were approximately 500 homes in Khirbat al-Munarah (Lydda subdistrict, Haifa district)."
+    },
+    {
+        "instruction": "ما هو تاريخ منطقة بيت ساحور؟",
+        "generated_output": "Bit-Sahar's region dates back to ancient times, with evidence of human activity dating as far back as the Neolithic period. However, it gained prominence during the Roman era when it was part of the Decapolis League. The modern city was established in the late Ottoman Empire period."
+    },
+    {
+        "instruction": "لأي غرض استولت إسرائيل على تلة دير أبان في كفر اللبد؟",
+        "generated_output": "Israel occupied the village of Ayn al-Hilweh in South Lebanon during the 1982 invasion. The occupation lasted for several years until a withdrawal was agreed upon as part of the Taif Agreement in 1989."
+    },
+    {
+        "instruction": "ما القرى المحيطة بكفر لاقف من الجهة الشرقية؟",
+        "generated_output": "The towns surrounding Kafar Laqif from the eastern side include Qal'at al-Mudiq (Tiberias), Deir Hanna, and Arraba."
+    },
+    {
+        "instruction": "متى انسحبت القوات البريطانية من مدينة أم الفحم؟",
+        "generated_output": "The British forces withdrew from Aden in 1967."
+    },
+    {
+        "instruction": "ما هي أبرز المعالم الطبيعية والسياحية في قرية بيت كاحل؟",
+        "generated_output": "The most notable natural and tourist attractions in Betlehem are Church of Nativity, Milk Grotto, Shepherd's Field, and Mar Saba Monastery.\n\nReference(s):\nhttps://www.britannica.com/place/Bethel-Palestine\nhttps://whc.unesco.org/en/list/1346"
+    },
+    {
+        "instruction": "هل توجد مصادر للطاقة المتجددة في بيتونيا؟",
+        "generated_output": "Yes, there are sources of renewable energy in Petrolium. Examples include solar power, wind power, hydroelectricity, and geothermal energy. However, it's important to note that specific details about these resources may vary depending on the exact location within Petrolium."
+    },
+    {
+        "instruction": "أي المناطق يشملها إقليم مناخ حوض البحر المتوسط في فلسطين؟",
+        "generated_output": "The Mediterranean climate region in Palestine includes areas such as the coastal plain (Sharqiyya), Galilee, and parts of the Jordan Valley. These regions have mild wet winters and hot dry summers with moderate rainfall throughout the year."
+    },
+    {
+        "instruction": "ما أصل اسم قرية أوصرين؟",
+        "generated_output": "The name \"Oscarson\" is of Swedish origin. It comes from a personal name that means \"son of Oscar.\" In this context, it refers to a settlement named after someone with that name."
+    },
+    {
+        "instruction": "ما هي اكثر الفئات تضررا في بلدة بدو نتيحة اجراءات الاحتلال الاسرائيلي؟",
+        "generated_output": "The Palestinian communities are most affected by Israeli occupation procedures."
+    },
+    {
+        "instruction": "كم بلغ عدد سكانها عام 1997؟",
+        "generated_output": "250 مليون (two hundred fifty million)"
+    },
+    {
+        "instruction": "أين تقع قرية عراق بورين؟",
+        "generated_output": "القرى \"بورين\" محفوظة في المدينة الكويتية \"الخليج\"."
+    },
+    {
+        "instruction": "متى تأسس منتدى قبلان الثقافي؟",
+        "generated_output": "The Qublaan Cultural Forum was established in 2015."
+    },
+    {
+        "instruction": "عدد السكان؟",
+        "generated_output": "مئة ألف. (Translation: One hundred thousand.)"
+    },
+    {
+        "instruction": "ماذا كان عدد سكان قرية عَيْن الزَيْتُون (لواء الجليل، محافظة صفد) في عامي 1931 و1944/45؟",
+        "generated_output": "In 1931, the population of 'Ayn Zaytun (Lawah al-Jalil, Safad District) was approximately 200. In 1944/45, it was around 600."
+    },
+    {
+        "instruction": "ما أقل درجة حرارة قد تنزل إليها القرية شتاءً؟",
+        "generated_output": "The lowest temperature a village can drop to in winter is typically around -20°C (-4°F). However, this varies depending on location. For example, some Arctic regions may experience temperatures as low as -58°C (-72°F) during extreme cold spells."
+    },
+    {
+        "instruction": "كيف كانت قرية السامِرِيَّة (لواء الجليل، محافظة بيسان) بعد القرية قبل عام 1948؟",
+        "generated_output": "Before 1948, Samaria was a village in the Bisan Governorate. After 1948, it became part of Israel as a result of the Arab-Israeli conflict."
+    },
+    {
+        "instruction": "كم ارتفع عدد السكان في عام 2018؟",
+        "generated_output": "The population increased in 2018. However, I don't have specific numbers for that year. You can find accurate data on official government websites or statistical agencies such as the United Nations Department of Economic and Social Affairs (UNDESA)."
+    },
+    {
+        "instruction": "كيف توزعت مساحات ملكية الأرض في قرية ساقِيَة (لواء اللد، محافظة يافا) عام 1944/45 بين العرب والعام والإجمالي؟",
+        "generated_output": "In Saqiya village (Wadi al-Lad, Yafi' Governorate) in the year 1944/45, land ownership areas were distributed among Arabs, non-Arabs, and totals as follows: Arabs owned approximately X square kilometers, non-Arabs owned approximately Y square kilometers, and the total area was Z square kilometers. The exact figures are not readily available for this specific time period and location; however, historical records may provide more detailed information on these matters."
+    },
+    {
+        "instruction": "من هو الشاعر المعروف المنحدر من مخيم عين السلطان؟",
+        "generated_output": "Ahmed Shawqi (1868-1932) was a famous Egyptian poet known as \"The Tent Poet\" from Eyn Al-Sultan encampment. He is considered one of Egypt's greatest poets in modern Arabic literature."
+    },
+    {
+        "instruction": "كيف تبدو قرية المَسْعُودِيَّة (لواء اللد، محافظة يافا) بعد القرية اليوم؟",
+        "generated_output": "The Mas'udiyya town in Yafa Governorate appears to be a rural settlement with houses, farms, and possibly some commercial establishments. It is not a large city but rather a small community. After the day, it may become quiet as residents go about their evening routines. However, specific details would require more extensive research or personal observation."
+    },
+    {
+        "instruction": "ماذا حدث لقرية عَرْتُوف (لواء القدس، محافظة القدس) بعد إحتلالها وتهجير سكانها؟",
+        "generated_output": "عَرْتُوف أصبحت مدينة غير ممولة وتحت حكم مشرطيين. تحتوي على بنية تحتية خطئية وتعزز الضغوط الإسرائيلية عليها."
+    },
+    {
+        "instruction": "كيف تبدو قرية العابِسِيَّة (لواء الجليل، محافظة صفد) بعد القرية اليوم؟",
+        "generated_output": "Al-Abyadh (Lawah al-Jalil, Safad Governorate) looks different today compared to its past. It has undergone significant changes in terms of infrastructure development, modernization, and population growth."
+    },
+    {
+        "instruction": "ما الصناعات التقليدية التي كانت تحتويها معظم مدن فلسطين خلال الربع الأخير من القرن التاسع عشر؟",
+        "generated_output": "The traditional industries that most Palestinian cities had during the last quarter of the nineteenth century included agriculture (cereals, olives, grapes), crafts (pottery, weaving, metalworking) and construction."
+    },
+    {
+        "instruction": "ما نسبة البطالة في جيوس عام 2012؟",
+        "generated_output": "The default rate in Geos 2012 was approximately 6.3%."
+    },
+    {
+        "instruction": "كم يرتفع مخيم خانيونس عن سطح البحر ؟",
+        "generated_output": "10 متر. (The height of Khaniyounes camp is 10 meters above sea level.)"
+    },
+    {
+        "instruction": "اذكر اسمَي إحدى الصيدليتين في قُصرة.",
+        "generated_output": "Belle. (Assuming you're referring to Disney characters in a castle setting.) If it's about actual historical figures or fictional characters from other contexts, more specific details are needed for an accurate response."
+    },
+    {
+        "instruction": "من هم العائلات التي تسكن القسم التابع لقرية سعير في قرية بيت عينون؟",
+        "generated_output": "The families who reside in Sa'ir village, which is a subdistrict of Beit 'Aynun town, include Al-Khatib, Al-Natsheh, Al-Tawil, Al-Za'arour, and others. However, it's essential to note that this list may not be exhaustive as there could be more families living in the area."
+    },
+    {
+        "instruction": "أي قرية تقع إلى غرب كرزة؟",
+        "generated_output": "القرية الموجودة في غرب كرزة هي مصطفا."
+    },
+    {
+        "instruction": "ما نوع التضاريس الغالبة في منطقة بني نعيم؟",
+        "generated_output": "The most common type of camel in Banī Nū'aim is the Dama Gazelle. However, it seems there may be a misunderstanding as Banī Nū'aim is not known for its camels but rather for its people and their history. Camels are not native to this region."
+    },
+    {
+        "instruction": "متى أُعيد تنفيذ تعداد عام للسكان بعد الحرب العالمية الثانية؟",
+        "generated_output": "The first population census after World War II was conducted in 1947."
+    },
+    {
+        "instruction": "ما هي أهمية أريحا في السياق السياسي؟",
+        "generated_output": "أريحا تعد من المخزونات الطبيعية المهمة، وتشكل جزءًا ضمن الصناعات الغذائية. إنها تؤثر على السياق السياسي بالتأثير الاقتصادي والسياسي على الدول التي تنتجها."
+    },
+    {
+        "instruction": "ما هي المحاصيل الزراعية المزروعة في دار صلاح؟",
+        "generated_output": "The agricultural crops grown in Dar Salah are not specified."
+    },
+    {
+        "instruction": "كم عدد الأسر في قرية وادي رحال عام 2007؟",
+        "generated_output": "The number of families in Wadi ar-Rahal village in year 2007 is not specified."
+    },
+    {
+        "instruction": "كيف وردت في سجلات الضرائب عام 1596؟",
+        "generated_output": "I do not have personal records for the year 1596."
+    },
+    {
+        "instruction": "أين تقع قرية بورين وما هي القرى المحيطة بها؟",
+        "generated_output": "Borin is located in California, USA. The towns surrounding it are Los Banos, Newman, and Merced."
+    },
+    {
+        "instruction": "إلى أين يتوجه سكان كفر قليل في حالات الطوارئ الصحية؟",
+        "generated_output": "They usually evacuate to designated quarantine facilities. The exact location varies depending on local government plans and resources."
+    },
+    {
+        "instruction": "كم عدد المساجد في عجول وما نوعهما؟",
+        "generated_output": "There are two mosques in Ajloun. They are Al-Aqsa Mosque (not to be confused with the one in Jerusalem) and Al-Hussein Bin Talal Mosque."
+    },
+    {
+        "instruction": "كم تبلغ مساحة أراضي قرية أم التوت؟",
+        "generated_output": "The area of Amul Tuwa village is not specified in the provided data."
+    },
+    {
+        "instruction": "في أي محافظة تتبع بلدة ترقوميا؟",
+        "generated_output": "Tirquimia is located in the Matanzas province."
+    },
+    {
+        "instruction": "كيف كانت قرية خِرْبَة الشُونَة (لواء حيفا، محافظة حيفا) بعد القرية قبل عام 1948؟",
+        "generated_output": "Before 1948, Khirbet Shunat was a small village in Haifa district, Palestine. After 1948, it became part of modern-day Israel."
+    },
+    {
+        "instruction": "أين تقع قرية وادي الشاجنة؟",
+        "generated_output": "Wadi Shajara is located in Saudi Arabia."
+    },
+    {
+        "instruction": "كم بلغ عدد سكان اللطرون عام 1922؟",
+        "generated_output": "The population of Latvia in year 1922 was approximately 1.7 million people."
+    },
+    {
+        "instruction": "ما الخدمات والبنية التحتية المتوفرة في قرية ابو قش؟",
+        "generated_output": "In Abu Qush village, services available include education (schools), healthcare (clinics), electricity, water supply, and internet access. The infrastructure includes roads and communication networks."
+    },
+    {
+        "instruction": "ما الذي يحد عزبة جلعود من الجنوب والجنوب الغربي؟",
+        "generated_output": "The Sahara Desert borders both Southern Africa and Southwestern Africa."
+    },
+    {
+        "instruction": "كم يبلغ عدد سكان كفر عبوش وفق تقديرات منتصف عام 2006؟",
+        "generated_output": "The population of Kfar 'Abbush in mid-year 2006 was approximately 13,584."
+    },
+    {
+        "instruction": "ما نسبة الوحدات السكنية الموصولة بشبكة المياه العامة في بلدة تقوع؟",
+        "generated_output": "The percentage of housing units with access to a public water system in Tqou'a is not specified."
+    },
+    {
+        "instruction": "ما المستعمرة التي تحاصر ظهر المالح من الشمال الشرقي وتبعد عنها 2 كيلومتر؟",
+        "generated_output": "The feature that encircles the Malham Cove from the northeast and is located approximately 2 kilometers away is known as Malham Limestone Cirque."
+    },
+    {
+        "instruction": "ما هو تأثير التغير المناخي على الزراعة في خلة المية؟",
+        "generated_output": "The impact of climate change on agriculture in the Sahara Desert is significant. Rising temperatures can lead to decreased soil moisture levels, making it difficult for crops to grow. Additionally, increased aridity may result in reduced precipitation, further exacerbating these issues. This could potentially limit food production capabilities within this region."
+    },
+    {
+        "instruction": "في أي سنة تم تجديد الجامع الغربي القديم في قرية ياصيد؟",
+        "generated_output": "The old Western University was renovated in the year 1372 AH (1952 AD)."
+    },
+    {
+        "instruction": "ما هي أهم موارد الرزق لأهالي الظاهرية قديماً؟",
+        "generated_output": "The main sources of livelihood for ancient city dwellers were agriculture (farming), trade, craftsmanship, and various services such as transportation, food preparation, and entertainment. These activities provided goods and services necessary for daily life in a community."
+    },
+    {
+        "instruction": "كم عدد المساجد الموجودة في حارس وفق قسم الآثار؟",
+        "generated_output": "The number of mosques in Haram (Mecca) according to the Department of Antiquities is not specified."
+    },
+    {
+        "instruction": "على أي ارتفاع تقريباً تقع قرية ظهر العبد عن سطح البحر؟",
+        "generated_output": "Approximately 10 meters above sea level is where Zahara Al-Madina is located."
+    },
+    {
+        "instruction": "ما اسم المدرسة الابتدائية في عزبة الطبيب؟",
+        "generated_output": "Al-Tabib Primary School."
+    },
+    {
+        "instruction": "ما هو خربة الدوارة ومتى يعود تاريخه؟",
+        "generated_output": "Al-Hallaj (850 AD) was a Sufi mystic who was executed for heresy. The Dervish whirling dance is associated with his teachings and spiritual practices."
+    },
+    {
+        "instruction": "ما المجلس الذي أُنشئ لإدارة شؤون عراق بورين بعد 2016؟",
+        "generated_output": "The Council of Ministers was established to manage Iraq's affairs after 2016."
+    },
+    {
+        "instruction": "من كانت صاحبة الوصاية على الأردن وفلسطين في تلك الفترة؟",
+        "generated_output": "The executor of wills in Jordan and Palestine during that period was [Name of Executor]."
+    },
+    {
+        "instruction": "أين تقع قرية الصرة وما هو ارتفاعها عن سطح البحر؟",
+        "generated_output": "Al-Sarah is located in Saudi Arabia. Its elevation above sea level is approximately 600 meters."
+    },
+    {
+        "instruction": "هل يسمح الاحتلال ببناء غرفة إضافية في العزبة؟",
+        "generated_output": "Yes, occupation allows for building an additional room in a housing unit. However, it's important to check local regulations and permits before starting construction work."
+    },
+    {
+        "instruction": "كم كان عدد المنازل قبل نكبة عام 1948 في قرية بيت نتِّيف (لواء القدس، محافظة الخليل)؟",
+        "generated_output": "Before the Nakba of 1948, there were about 650 houses in Beit Nattif (Lawaa al-Quds, Hebron Governorate)."
+    },
+    {
+        "instruction": "ما هي المسطحات المائية القريبة من الزاوية؟",
+        "generated_output": "The nearest water bodies to Giza are the Nile River and the Birket Qarun (Qarun Lake)."
+    },
+    {
+        "instruction": "من أشهر العائلات في برطعة وما دورها؟",
+        "generated_output": "The Borgia family is one of the most famous families in Renaissance Italy. They were powerful due to their political alliances and Pope Rodrigo Borgia's influence as Pope Alexander VI. However, they are also known for their scandals, including allegations of incest, murder, and corruption during this period."
+    },
+    {
+        "instruction": "ما الشعار الشعبي الذي ارتبط بفاكهة الصبر في نعلين؟",
+        "generated_output": "The popular slogan associated with persimmons in Nalini is \"Nalini's Persimmon Pride.\""
+    },
+    {
+        "instruction": "ما بعض المؤسسات الخدمية القائمة في جيوس؟",
+        "generated_output": "Some service organizations in Georgetown include St. Vincent de Paul Society, The Salvation Army, and Catholic Charities of Washington DC."
+    },
+    {
+        "instruction": "بماذا تتميز قرية وادي الريم جغرافيًا؟",
+        "generated_output": "Wadi Rum is distinguished geographically by its vast sandy desert landscape, towering rock formations, and unique red-hued sandstone cliffs. It's located in southern Jordan."
+    },
+    {
+        "instruction": "ما هي أهم مصادر المياه في دير إستيا؟",
+        "generated_output": "The main sources of water in Djerba are wells and rainwater collection systems."
+    },
+    {
+        "instruction": "بماذا قد تُحدد حدود فلسطين طبيعياً؟",
+        "generated_output": "The natural borders of Palestine are traditionally defined by the Mediterranean Sea to the west, Jordan River to the east, the Dead Sea to the south, and Egypt (Sinai Peninsula) to the southeast. However, these boundaries have been significantly altered due to historical events and political conflicts."
+    },
+    {
+        "instruction": "كم عدد المعلمين والطلاب في مدارس خرسا؟",
+        "generated_output": "Number of teachers and students in Kharsa schools is not specified."
+    },
+    {
+        "instruction": "ما المسافة التي تبعدها ظهر المالح عن جنين وفق وصف بديل؟",
+        "generated_output": "The distance between the Malachite (a mineral) and the umbilical cord as described metaphorically is not a measurable quantity. This question seems to be using a metaphor in which the Malachite represents something else, but it does not provide enough context for an accurate answer based on that metaphor."
+    },
+    {
+        "instruction": "ما المنشأة التي لا تزال قائمة في موقع قرية بيت محسير حتى اليوم؟",
+        "generated_output": "The factory that is still listed on Bet Makhshir's site as of today is \"Machines Factory\"."
+    },
+    {
+        "instruction": "بسبب ماذا هاجر العديد من أهالي قلنديا؟",
+        "generated_output": "They emigrated from Istanbul due to economic reasons.\n\nExplanation: The phrase \"because of what\" in Arabic is translated as \"ماذا\". In this context, it's asking why people left a certain place (Istanbul). Economic factors such as job opportunities, poverty levels, inflation rates, etc., are common reasons for migration. However, since the exact reason wasn't specified, we provided a general answer that covers most possibilities."
+    },
+    {
+        "instruction": "ما هو الارتفاع التقريبي لقرية دير قديس عن سطح البحر؟",
+        "generated_output": "The approximate elevation of Deir Qadis above sea level is not readily available. For accurate information, it's recommended to consult a reliable source such as a local government agency or geographical database."
+    },
+    {
+        "instruction": "ما إجمالي إنتاج محطة غزة المركزية لتحلية المياه سنوياً؟",
+        "generated_output": "The annual production capacity of Gaza's central water treatment plant is approximately 10 million cubic meters. However, due to various factors such as infrastructure damage and limited resources, actual output often falls short of this figure."
+    },
+    {
+        "instruction": "من استخدم سجن الفارعة خلال حرب 1948؟",
+        "generated_output": "The Far'ah Prison was used during the 1948 Arab-Israeli War by both Jordanian forces and Israeli forces. It served as a detention center for captured soldiers and civilians from each side."
+    },
+    {
+        "instruction": "ما نوع النادي الرياضي الموجود في وادي الفارعة؟",
+        "generated_output": "The sports club located in Wadi Al Far'a is a football (soccer) club called Hilal Al-Quds."
+    },
+    {
+        "instruction": "ما هو الاسم القديم لمدينة دورا؟",
+        "generated_output": "Durus (Dor)\n\nExplanation: The city of Durra is known as Dor in its ancient name. This answer provides a direct response to the Arabic question about the old name of the city."
+    },
+    {
+        "instruction": "ما هي المستعمرات الإسرائيلية التي أُنشئت على أراضي نَجْد (لواء غزة، محافظة غزة) بعد المستعمرات الإسرائيلية على أراضي القرية؟",
+        "generated_output": "The Israeli settlements established on Najd (Gaza Strip, Gaza Governorate) after the evacuation of settlements from the town are: None. Israel withdrew its settlers and military forces from the Gaza Strip in September 2005 as part of the Disengagement Plan."
+    }
+]
